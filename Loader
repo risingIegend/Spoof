@@ -1221,11 +1221,6 @@ getgenv().Spoof = {
                         mouse1click()
                         LastShot = tick()
                     end
-                end
-            end)
-        end
-    )()
-
     getgenv().Loaded = true
 
 
